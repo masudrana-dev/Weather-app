@@ -30,3 +30,36 @@
     background-color: #fff;
     border-radius: 40px;
 }
+.weather-img{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.weather-temp{
+display: flex;
+justify-content: center;
+color: white;
+font-size: 60px;
+}
+.weather-location{
+display: flex;
+justify-content: center;
+color: white;
+font-size: 30px;
+}
+
+.data-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.element{
+    display: flex;
+    justify-content: center;
+}
+.data{
+    color: white;
+    padding-left: 10px;
+}
